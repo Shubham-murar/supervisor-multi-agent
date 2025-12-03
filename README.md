@@ -1,4 +1,4 @@
-# Agentic AI Chatbot Project
+# supervisor-multi-agent
 
 This project is a **supervisor-based multi-agent** AI chatbot designed to answer user queries on various topics. The system is built around a supervisor agent that analyzes incoming queries and routes them to the most suitable specialized agent for the task.
 
